@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/1810A.iml" filepath="$PROJECT_DIR$/.idea/1810A.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gongapi/gongapi.iml" filepath="$PROJECT_DIR$/gongapi/gongapi.iml" />
     </modules>
   </component>
 </project>
